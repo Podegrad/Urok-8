@@ -1,0 +1,7 @@
+#include studio.h
+        main
+        {
+            int i
+            i := 43
+            print ('В году i недель')
+        }
